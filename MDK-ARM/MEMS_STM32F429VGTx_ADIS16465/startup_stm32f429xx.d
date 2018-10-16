@@ -1,0 +1,1 @@
+mems_stm32f429vgtx_adis16465\startup_stm32f429xx.o: startup_stm32f429xx.s
